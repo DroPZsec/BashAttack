@@ -31,6 +31,7 @@ HOW TO USE
 # INSTALL 
 
 To install all requirements, only use the install-script.
+First, unzip the "scripts.zip" datas with "unzip scripts.zip" command.
 Either use "chmod +x *" and then type "./install.sh" and the rest will be done automatically!
 
 # USE 
