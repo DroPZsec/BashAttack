@@ -9,7 +9,7 @@
 |    BASHATTACK   | is a hacking-tool ONLY FOR WHITE-HAT USING, that's complete written in bash. 
 |-----------------|
 All of must-have scanning attacks are included. 
-The Toolbox has servvices to anonymize yourself, but not good. It's easy to track youre real IP-Address if you scan only with BASHTATTACK.
+The Toolbox has services to anonymize yourself, but not good. It's easy to track youre real IP-Address if you scan only with BASHTATTACK.
 It's not the goal to make you invisible for attacking, its the goal to see different IP's in the log and if you can trace them.
 
 THE HACKING TOOLS AND SERVICES THERE INCLUDED IN BASHATTACK 
